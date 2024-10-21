@@ -37,7 +37,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-#🖥️ Heroku Deployment
+# 🖥️ Heroku Deployment
 The Movie Recommender System is deployed on Heroku. Follow the steps below to deploy the project on Heroku:
 
 1. Create a Heroku account
@@ -66,7 +66,7 @@ heroku ps:scale web=1
 ```bash
 heroku open
 ```
-#🔧 API and Data
+# 🔧 API and Data
 TMDb API
 The application uses the TMDb API to fetch movie posters. You can get your own API key by signing up on The Movie Database.
 
